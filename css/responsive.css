@@ -1296,3 +1296,53 @@ section.page404.wf100.p80 img {
 .home-facts.counter .counter-box p.ctxt {font-size:14px;}
 
 }
+.back-to-top {
+	position: relative;
+	z-index: 2; }
+	.back-to-top .btn-dark {
+	  width: 35px;
+	  height: 35px;
+	  border-radius: 50%;
+	  padding: 0;
+	  position: fixed;
+	  bottom: 20px;
+	  right: 20px;
+	  background: #2e2e2e;
+	  border-color: #2e2e2e;
+	  display: none;
+	  z-index: 999;
+	  -webkit-transition: all 0.3s linear;
+	  -o-transition: all 0.3s linear;
+	  transition: all 0.3s linear; }
+	  .back-to-top .btn-dark:hover {
+		cursor: pointer;
+		background: yellowgreen;
+		border-color: #FA6742; }
+		.social-footer {
+			padding: 1rem;
+			background: #8a8a8a;
+			display: -webkit-flex;
+			display: -ms-flexbox;
+			display: flex;
+			-webkit-align-items: center;
+				-ms-flex-align: center;
+					align-items: center;
+			-webkit-justify-content: space-between;
+				-ms-flex-pack: justify;
+					justify-content: space-between;
+		  }
+		  
+		  .social-footer .social-footer-icons li:last-of-type {
+			margin-right: 0;
+		  }
+		  
+		  .social-footer .social-footer-icons .fa {
+			font-size: 1.3rem;
+			color: #fefefe;
+		  }
+		  
+		  .social-footer .social-footer-icons .fa:hover {
+			color: #4a4a4a;
+			transition: color 0.3s ease-in;
+		  }
+		  
