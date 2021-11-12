@@ -40,7 +40,7 @@ ul.topnav-right {
 }
 .header-style-1 {
 	position: relative;
-	background: #33691e;
+	background: yellow;
 }
 .topside-menu {
 	display: none;
@@ -221,12 +221,12 @@ ul.topnav-right {
 }
 .header-style-1 {
 	position: relative;
-	background: #33691e;
+	background:yellow;
 }
 .header-style-1 .navbar-toggler {
 	color: #fff;
 	font-size: 25px;
-	border: 1px solid #33691e;
+	border: 1px solid yellow;
 	margin: 0 20px 0 0;
 	padding: 8px 15px;
 	background: #66bb6a;
@@ -581,7 +581,7 @@ section.page404.wf100.p80 img {
 }
 .header-style-1 {
 	position: relative;
-	background: #33691e;
+	background: yellow;
 }
 .slider-caption {
 	top: 50px;
@@ -1316,7 +1316,7 @@ section.page404.wf100.p80 img {
 	  transition: all 0.3s linear; }
 	  .back-to-top .btn-dark:hover {
 		cursor: pointer;
-		background: yellowgreen;
+		background: yellow;
 		border-color: #FA6742; }
 		.social-footer {
 			padding: 1rem;

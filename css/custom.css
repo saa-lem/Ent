@@ -281,7 +281,7 @@ a.con {
 	border-bottom: 1px solid #f1f1f1;
 }
 .header-style-2 .dropdown-menu a:hover, .header-style-1 .dropdown-menu a:hover {
-	color: #66bb6a;
+	color: yellow;
 }
 .dropdown-menu .dropdown-menu a {
 	border-bottom: 1px solid #ebebeb;
@@ -1472,14 +1472,14 @@ Home Page 2 Start
 	font-family: 'Roboto', sans-serif;
 }
 header.header-style-2 {
-	background: #1b5e20;
+	background: rgb(235, 235, 15);
 }
 header.header-style-2 .navbar {
 	padding: 0px;
 	margin: 0px;
 }
 header.header-style-2 .navbar-brand {
-	background: #33691e;
+	background: rgb(235, 235, 15);
 	width: 270px;
 	text-align: center;
 	padding: 13px 0;
@@ -1581,7 +1581,7 @@ a.cart-icon:hover, a.search-icon:hover {
 	border-bottom: 2px solid rgba(0,0,0,0);
 }
 .header-style-2 .navbar-expand-lg .navbar-nav .nav-link:hover {
-	color: #66bb6a;
+	color:black;
 	border-bottom: 2px solid #66bb6a;
 }
 /***************  Service Area  *****************/
