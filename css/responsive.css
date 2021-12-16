@@ -4,6 +4,7 @@
 @media (min-width: 1201px) and (max-width: 1600px) {
 .header-style-1 .navbar-brand {
 	padding: 19px 20px;
+	flex-direction: column;
 }
 .nav-item .dropdown-toggle::after {
 	display: none;
